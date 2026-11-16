@@ -1,4 +1,4 @@
-# CSDS 335 Data Mining Project 1
+# CSDS 335 Data Mining Project 3
 
 The purpose of this project is to create and evaluate several classification models for two datasets, crop labels and their attributes in Ethiopia and India. The machine learning methods that we tested include Random Forest, Hist Gradient Boosting, Support Vector Machines, K-Nearest Neighbor, Logistic Regression, and Extra Trees. ((Discuss evaluation methods & metrics and maybe briefly results as well)) Please see our submission for a full report and presentation. 
 
