@@ -18,6 +18,7 @@ The following libraries are required: ((FINISH THIS LIST))
 - pandas
 - NumPy
 - scikit-learn
+- seaborn
 
 Other notes: ((ADD LINKS))
 - These datasets were found at the following links:
