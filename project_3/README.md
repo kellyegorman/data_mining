@@ -35,7 +35,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 4. Start jupyter notebook in a terminal: jupyter notebook
 5. Open the notebooks and run their cells in order
 
-- order to fun files: 
+- order to run files: 
 data_explore.ipynb 
 machine_learning.ipynb 
 model_results.ipynb 
